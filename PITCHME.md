@@ -17,7 +17,7 @@
 ---
 ### 次亜塩素酸水
 
-* 商品名 : [OXミスト]:https://www.rakuten.ne.jp/gold/otogino/pop/images/ox-faq.html
+* 商品名 :<a href="https://www.rakuten.ne.jp/gold/otogino/pop/images/ox-faq.html">OXミスト</a>
 * 製造販売元 : 株式会社OTOGINO
 * 参考価格/1L(100ppm) : ￥2,000
 <img src="https://image.rakuten.co.jp/otogino/cabinet/drdr/ox-mist-pop_01a.jpg" width="200">
@@ -26,7 +26,7 @@
 ---
 ### 次亜塩素酸水
 
-* 商品名 : [ジアニスト]:https://item.rakuten.co.jp/vlab/116-001/
+* 商品名 : <a href="https://item.rakuten.co.jp/vlab/116-001/">ジアニスト</a>
 * 製造販売元 : SACラボ株式会社
 * 参考価格/2.5L(500ppm) : ￥1980
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/vlab/cabinet/shohin-img/whitebk/jianist2.jpg" width="200">
@@ -35,7 +35,7 @@
 ---
 ### 次亜塩素酸水
 
-* 商品名 : [次亜塩素酸水]:https://www.matsukiyo.co.jp/store/online/p/4901329290621
+* 商品名 : <a href="https://www.matsukiyo.co.jp/store/online/p/4901329290621">次亜塩素酸水</a>
 * 製造販売元 : Matsukiyo
 * 参考価格/400ml(200ppm) : ￥468(品切れ中）
 <img src="https://www.matsukiyo.co.jp/medias/4901329290621-1.jpg?context=bWFzdGVyfGltYWdlc3wzOTA4MnxpbWFnZS9qcGVnfHN5cy1tYXN0ZXIvaW1hZ2VzL2g2My9oY2MvOTAwMzA5NTg1MTAzOC80OTAxMzI5MjkwNjIxXzEuanBnfDZmYzgxOGQxMTQzMjM0YjRkNWI3YjcxNjE1NzE4ODFmODhjYWI3NWQ4MDE3M2VjZmVhYTA5ZmEwZjFiYmNjYzk" width="200">
