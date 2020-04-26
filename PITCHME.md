@@ -15,9 +15,11 @@
 ------
 # 次亜塩素酸水
 
-|商品名|イメージ|参考価格/1L|
-|:---|:---|:---|:---|
-|OXミスト|![](https://image.rakuten.co.jp/otogino/cabinet/drdr/ox-mist-pop_12a.jpg)|￥2,000|
-||||
+* 商品名 : OXミスト
+* 販売元 : 株式会社OTOGINO
+* イメージ
+![](https://image.rakuten.co.jp/otogino/cabinet/drdr/ox-mist-pop_12a.jpg)
+* 参考価格/1L : ￥2,000
 
 ------
+
